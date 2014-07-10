@@ -1,6 +1,0 @@
-# * ? [aeiou] [0-9] regular expressions allowed
-*.zip
-*.gz
-log/*.log.[0-9]
-assets/videos/
-!assets/videos/toure_*.mp4
